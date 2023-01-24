@@ -91,15 +91,8 @@ are the `!mypawn` commands, which allow you see various information about your p
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
-## What can I do as a viewer?
-
-You can:
-join the colony as a pawn (!buy pawn or !joinqueue)
-use coins to buy items for the colony (!buy item 1)
-use coins to buy items for your pawn (!buy wear item[material,quality] )
-use coins to buy events for the colony (good or bad)
-vote on colony events as they appear (type 1, 2 or 3 into chat)
-
+## I still don't know what to do..
+No stress! There's a lot of information to process. If you feel confident enough please ask for help in the stream chat and folks would love to give you a hand
 
 
 {%- if puppeteer -%}
