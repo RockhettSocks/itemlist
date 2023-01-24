@@ -37,7 +37,7 @@ permalink: /info
 
 # Welcome
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
+Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})' stream.
 This stream uses the mod
 [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
@@ -53,7 +53,7 @@ choices in these polls depend heavily on what's enabled in the mod.
 
 ## What Are Coins?
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. You gain coins by watching, participating in chat and as gifts from Rockhett and your fellow Socks.
 
 {% if utils == true %}
 You'll notice the balance command may have some new emojis. If that's the case, here is an overview
