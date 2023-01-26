@@ -18,3 +18,5 @@ permalink: /Story
   }
 </style>
 
+<p> Story and events go here </p> <br>
+
