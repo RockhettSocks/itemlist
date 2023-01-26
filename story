@@ -21,7 +21,7 @@ permalink: /Story
 <div class="container">
 <p>Story Logs, info and links will go here</p>
 
-6 colonists land in a Tropical Rainforest full of caves. 
+<p>6 colonists land in a Tropical Rainforest full of caves. 
 <ul> 
 <li>Vanivan</li>
 <li>Escapade2d17</li>
@@ -30,5 +30,6 @@ permalink: /Story
 <li>Froggletaint</li>
 <li>RockhettSocks</li>
 </ul>
+</p>
   </div>
 
