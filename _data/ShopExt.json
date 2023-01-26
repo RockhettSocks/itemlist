@@ -29,12 +29,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -109,12 +113,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -237,7 +245,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [
         "wimp"
       ],
@@ -246,7 +256,9 @@
         "conflicts": [
           "wimp"
         ],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -313,7 +325,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [
         "ascetic",
         "greedy"
@@ -324,7 +338,9 @@
           "ascetic",
           "greedy"
         ],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -627,12 +643,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -793,12 +813,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
-      "stats": [],
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
