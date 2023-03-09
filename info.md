@@ -43,6 +43,9 @@ This stream uses the mod
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
 users, but this short guide will help you get the hang of things.
 
+## How do I join the colony?
+Type !joinqueue into chat. If there's a free pawn available Rockhett will assign them to you. Alternatively you can use !buy pawn if there are no free pawns available
+
 ## What is Twitch Toolkit?
 
 Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
