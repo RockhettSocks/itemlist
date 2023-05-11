@@ -70,55 +70,55 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 1000
+      "price": 4667
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 1000
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 1000
+      "price": 4667
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": 600
+      "price": 1717
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": 600
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": 600
+      "price": 1717
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": 600
+      "price": 1717
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": 600
+      "price": 1717
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": 600
+      "price": 1308
     },
     {
       "abr": "deathacidifier",
@@ -130,37 +130,37 @@
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": 600
+      "price": 1308
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": 400
+      "price": 942
     },
     {
       "abr": "heart",
       "category": "Natural",
       "defname": "Heart",
-      "price": 833
+      "price": 2000
     },
     {
       "abr": "lung",
       "category": "Natural",
       "defname": "Lung",
-      "price": 667
+      "price": 1667
     },
     {
       "abr": "kidney",
       "category": "Natural",
       "defname": "Kidney",
-      "price": 417
+      "price": 1500
     },
     {
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
-      "price": 833
+      "price": 2000
     },
     {
       "abr": "prostheticleg",
@@ -214,19 +214,19 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": 300
+      "price": 275
     },
     {
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": 600
+      "price": 517
     },
     {
       "abr": "grandsculpture",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": 900
+      "price": 1967
     },
     {
       "abr": "bed",
@@ -346,7 +346,7 @@
       "abr": "shelf",
       "category": "Furniture",
       "defname": "Shelf",
-      "price": 104
+      "price": 70
     },
     {
       "abr": "dresser",
@@ -628,7 +628,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": 800
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
@@ -694,7 +694,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": 100
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
@@ -856,7 +856,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": 10
+      "price": 17
     },
     {
       "abr": "medicine",
@@ -868,7 +868,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 100
+      "price": 83
     },
     {
       "abr": "component",
@@ -880,7 +880,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 666
+      "price": 333
     },
     {
       "abr": "neutroamine",
@@ -1354,7 +1354,7 @@
       "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
-      "price": 900
+      "price": 792
     },
     {
       "abr": "flakvest",
@@ -1384,37 +1384,37 @@
       "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
-      "price": 1800
+      "price": 2567
     },
     {
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "breachaxe",
@@ -1534,7 +1534,7 @@
       "abr": "assaultrifle",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle",
-      "price": 900
+      "price": 800
     },
     {
       "abr": "sniperrifle",
@@ -1630,7 +1630,7 @@
       "abr": "tornadogenerator",
       "category": "Utility",
       "defname": "TornadoGenerator",
-      "price": 1600
+      "price": 1333
     },
     {
       "abr": "grizzlybear",
@@ -2170,7 +2170,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": 3
+      "price": 1
     },
     {
       "abr": "thrumbomeat",
@@ -2302,79 +2302,79 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 3
+      "price": 1
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "dye",
@@ -2644,7 +2644,7 @@
       "abr": "armorskingland",
       "category": "Bionic",
       "defname": "ArmorskinGland",
-      "price": 1600
+      "price": 2458
     },
     {
       "abr": "arrayheadset",
@@ -3148,7 +3148,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 200
+      "price": 833
     },
     {
       "abr": "mechlordhelmet",
@@ -3688,7 +3688,7 @@
       "abr": "stoneskingland",
       "category": "Bionic",
       "defname": "StoneskinGland",
-      "price": 1200
+      "price": 3200
     },
     {
       "abr": "stylingstation",
@@ -3826,7 +3826,7 @@
       "abr": "toughskingland",
       "category": "Bionic",
       "defname": "ToughskinGland",
-      "price": 900
+      "price": 1717
     },
     {
       "abr": "toxgrenades",
